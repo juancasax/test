@@ -1,1 +1,0 @@
-nuevotexto despues de add
