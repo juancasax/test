@@ -2,4 +2,4 @@
 - hosts: localhost
   becmoe: true
   task:
-    -
+    - modificado
